@@ -43,7 +43,4 @@ public class Book {
         return bookTitle + "\n" + pageNumbers + " pages, " + publicationYear;
     }
 
-    public String getName() {
-        return bookTitle;
-    }
 }
